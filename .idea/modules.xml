@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo_springMvc.iml" filepath="$PROJECT_DIR$/dubbo_springMvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jlo-core/jlo-core.iml" filepath="$PROJECT_DIR$/jlo-core/jlo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jlo-web/jlo-web.iml" filepath="$PROJECT_DIR$/jlo-web/jlo-web.iml" />
+    </modules>
+  </component>
+</project>

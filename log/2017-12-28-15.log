@@ -1,0 +1,9 @@
+2017-12-28 15:44:00,081 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.Connection]:47 - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@a49556d]
+2017-12-28 15:44:00,086 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.Connection]:47 - ==>  Preparing: select id, name, address, phone from sys_user where id = ? 
+2017-12-28 15:44:00,113 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.PreparedStatement]:47 - ==> Parameters: 1(Integer)
+2017-12-28 15:46:06,023 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.Connection]:47 - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@e351635]
+2017-12-28 15:46:06,028 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.Connection]:47 - ==>  Preparing: select id, name, address, phone from sys_user where id = ? 
+2017-12-28 15:46:06,052 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.PreparedStatement]:47 - ==> Parameters: 1(Integer)
+2017-12-28 15:48:51,617 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.Connection]:47 - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@31968ad3]
+2017-12-28 15:48:51,623 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.Connection]:47 - ==>  Preparing: select id, name, address, phone from sys_user where id = ? 
+2017-12-28 15:48:51,645 DEBUG [DubboServerHandler-192.168.1.240:20886-thread-2] [java.sql.PreparedStatement]:47 - ==> Parameters: 1(Integer)
